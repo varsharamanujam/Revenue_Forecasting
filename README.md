@@ -5,6 +5,9 @@ This repository contains a comprehensive Jupyter Notebook that delves into the p
 
 ## Contents
 
+### Dataset
+- [Dataset link](https://www.kaggle.com/datasets/oscarm524/revenue-forecast)
+- [My kaggle work](https://www.kaggle.com/code/varshasureshbabu/revenue-forecast)
 ### Understanding the Data
 - **Finding Missing Values**: Analyzing and handling missing values in various features.
 - **Filling Missing Data**: Strategies to fill missing data with default values or remove unnecessary columns.
