@@ -1,4 +1,3 @@
-# Revenue_Forecasting
 # Revenue Forecasting and Data Preprocessing
 
 This repository contains a comprehensive Jupyter Notebook that delves into the process of understanding and preprocessing data, with a particular focus on revenue forecasting.
